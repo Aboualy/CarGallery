@@ -1,0 +1,94 @@
+html,
+body,
+#root{
+  height: 100%;
+}
+.App {
+  text-align: center;
+  height: 100%;
+  background: url("carB.png") no-repeat;
+  background-size: cover;
+
+}
+
+.App-logo {
+  height: 60px;
+  position: absolute;
+  top: 30px;
+  left: 50px;
+
+}
+
+.App-header {
+  background-color: #222;
+  height: 45px;
+  padding: 30px;
+  color: white;
+
+}
+
+.App-title {
+  color: white;
+  font-size: 1.1em;
+  font-family: "Monaco", monospace;
+
+}
+
+.App-intro {
+
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+.head{
+  text-align: center;
+
+}
+
+.split {
+  width: 50%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+
+}
+.left {
+  left: 3px;
+  position: fixed;
+  top: 108px;
+  /*border: 7px inset #001c5b;*/
+
+  width: 325px;
+  height: auto;
+  zoom: 1;
+  background: rgba(255,255,255,0.5);
+  filter: alpha(opacity=30);
+  opacity: 1.55;
+
+
+}
+.right {
+  right: 175px;
+  width: 750px;
+  position: fixed;
+  top: 105px;
+  /*background: rgba(255,255,255,0.5);
+  filter: alpha(opacity=30);
+  opacity: 1.55;*/
+
+}
+
+
+.form-span {
+
+  font-family: "Monaco", monospace;
+  color: red;
+  font-size: 0.6em;
+
+}
+
