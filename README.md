@@ -1,0 +1,3 @@
+# CarGallery_DApp
+ Reactjs, IPFS, Solidity, truffle framework, Ganache, MetaMask  
+ “MetaMask is an extension for accessing Ethereum enabled distributed applications, or "Dapps" in your normal Chrome browser!” “Ganache quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.”  “Solidity is a contract-oriented, high-level language for implementing smart contracts.”  A decentralized application (Dapp, dApp or DApp) is an application that is run by many users on a decentralized network with trustless protocols.” 
