@@ -18,7 +18,8 @@ A decentralized application (Dapp, dApp or DApp) is an application that is run b
 
 ![screen shot 2018-09-15 at 23 47 29](https://user-images.githubusercontent.com/32483438/45591010-fdb6bf80-b94e-11e8-898c-d21051c738de.png)
 ![screen shot 2018-09-15 at 23 47 43](https://user-images.githubusercontent.com/32483438/45591012-04ddcd80-b94f-11e8-9eb6-1d1e900a6b2c.png)
-![screen shot 2018-09-15 at 23 47 01](https://user-images.githubusercontent.com/32483438/45591015-10c98f80-b94f-11e8-85d2-ff99e0f3cb2f.png)
+![screen shot 2018-09-15 at 23 47 01](https://user-images.githubusercontent.com/32483438/45591563-04e5c980-b95f-11e8-85be-894021c4aa5f.png)
+
 ![screen shot 2018-09-15 at 23 47 05](https://user-images.githubusercontent.com/32483438/45591016-10c98f80-b94f-11e8-94f6-f2cc9dc5eded.png)
 
 ![screen shot 2018-09-15 at 23 40 47](https://user-images.githubusercontent.com/32483438/45591503-70c73280-b95d-11e8-987c-7fe796877a24.png)
