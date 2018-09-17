@@ -1,5 +1,5 @@
 # CarGallery_DApp
- Reactjs, IPFS, Solidity, truffle framework, Ganache, MetaMask  
+ Reactjs, web3.js, IPFS, Solidity, truffle framework, Ganache, MetaMask  
 
 
 “MetaMask is an extension for accessing Ethereum enabled distributed applications, or "Dapps" in your normal Chrome browser!” 
